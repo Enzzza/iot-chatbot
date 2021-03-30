@@ -1,7 +1,5 @@
 #include <dht.h>
 
-
-
 dht DHT;
 
 #define DHT11_PIN 2
@@ -16,10 +14,7 @@ void loop()
   String msg = String(int(DHT.temperature)) + "," + String(int(DHT.humidity));
   Serial.println(msg);
  
-  
-  
-  
- // Serial.flush();
+  // Serial.flush();
   delay(2000);
 }
 
