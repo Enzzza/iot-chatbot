@@ -93,11 +93,11 @@ case 'temp':
         break;
 ```
 
-![gif1]()
+![gif1](https://raw.githubusercontent.com/Enzzza/iot-chatbot/main/media/gif1.gif)
 
 While we were waiting for the results of the Red Bull competition (which we won) I added the following function to my chatbot
 
-![gif2]()
+![gif2](https://raw.githubusercontent.com/Enzzza/iot-chatbot/main/media/gif2.gif)
 
 I used Scrapy spider to scrape live results from RedBull site.
 
