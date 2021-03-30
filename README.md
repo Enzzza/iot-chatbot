@@ -95,7 +95,7 @@ case 'temp':
 
 ![gif1](https://raw.githubusercontent.com/Enzzza/iot-chatbot/main/media/gif1.gif)
 
-While we were waiting for the results of the Red Bull competition (which we won) I added the following function to my chatbot
+While we were waiting for the results of the [Red Bull](https://github.com/Enzzza/unibot) competition (which we won) I added the following function to my chatbot.
 
 ![gif2](https://raw.githubusercontent.com/Enzzza/iot-chatbot/main/media/gif2.gif)
 
